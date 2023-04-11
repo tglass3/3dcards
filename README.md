@@ -2,10 +2,13 @@
 
 > Extend your education
 
-3D Cards for Dept. of Design Certificates.
+**3D** Cards for [Department of Design](https://www.ewu.edu/cstem/design/) Certificates.
 
 ## Certificates
 
-- UX Design
-* Game Design
-* Social Media Management
+- _UX Design_
+- _Game Design_
+- _Social Media Management_
+
+---
+
