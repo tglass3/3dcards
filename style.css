@@ -2,4 +2,9 @@
 
 body{
     background: rgb(234, 105, 105);
+    font-family: sans-serif;
+}
+
+video{
+    border: 10px, solid, rgb(0, 0, 0);
 }
