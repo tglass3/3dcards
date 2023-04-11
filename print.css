@@ -1,5 +1,13 @@
 /* Print Stylesheet */
 
-body {
-    background: none;
+@media print{
+    
+    body {
+        background: none;
+        font-family: serif;
+    }
+
+    a[href]::after{
+        content: " " attr(href);
+    }
 }
