@@ -6,9 +6,9 @@
 
 ## Certificates
 
+---
+
 - _UX Design_
 - _Game Design_
 - _Social Media Management_
-
----
 
