@@ -12,3 +12,7 @@
 - _Game Design_
 - _Social Media Management_
 
+## Citations
+
+* [Dave Desandro Card Flip](https://codepen.io/desandro/pen/LmWoWe)
+* [3D Product Card by Zac](https://codepen.io/zremboldt/pen/ZvQjOG)
